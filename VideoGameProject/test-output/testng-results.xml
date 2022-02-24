@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-23T20:49:43 PST" name="Suite" finished-at="2022-02-23T20:49:48 PST" duration-ms="4387">
+    <groups>
+    </groups>
+    <test started-at="2022-02-23T20:49:43 PST" name="Test" finished-at="2022-02-23T20:49:48 PST" duration-ms="4387">
+      <class name="TC_VideoGameAPI">
+        <test-method signature="test_GetAllVideoGames()[pri:1, instance:TC_VideoGameAPI@1ed1993a]" started-at="2022-02-23T20:49:43 PST" name="test_GetAllVideoGames" finished-at="2022-02-23T20:49:46 PST" duration-ms="2628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_GetAllVideoGames -->
+        <test-method signature="test_AddNewVideoGame()[pri:2, instance:TC_VideoGameAPI@1ed1993a]" started-at="2022-02-23T20:49:46 PST" name="test_AddNewVideoGame" finished-at="2022-02-23T20:49:47 PST" duration-ms="771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_AddNewVideoGame -->
+        <test-method signature="test_getVideoGame()[pri:3, instance:TC_VideoGameAPI@1ed1993a]" started-at="2022-02-23T20:49:47 PST" name="test_getVideoGame" finished-at="2022-02-23T20:49:48 PST" duration-ms="809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getVideoGame -->
+        <test-method signature="test_updateVideoGame()[pri:4, instance:TC_VideoGameAPI@1ed1993a]" started-at="2022-02-23T20:49:48 PST" name="test_updateVideoGame" finished-at="2022-02-23T20:49:48 PST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_updateVideoGame -->
+        <test-method signature="test_deleteVideoGame()[pri:5, instance:TC_VideoGameAPI@1ed1993a]" started-at="2022-02-23T20:49:48 PST" name="test_deleteVideoGame" finished-at="2022-02-23T20:49:48 PST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_deleteVideoGame -->
+      </class> <!-- TC_VideoGameAPI -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
